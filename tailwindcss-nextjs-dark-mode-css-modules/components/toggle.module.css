@@ -1,0 +1,5 @@
+/* Dark mode won't work here */
+
+.toggle {
+  @apply bg-gray-100 dark:bg-red-400 hover:bg-gray-200 px-4 py-3;
+}
